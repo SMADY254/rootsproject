@@ -1,0 +1,59 @@
+ body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+    background-color: aquamarine;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px 0;
+}
+
+form {
+	border: 1px solid #ccc;
+	padding: 20px;
+	width: 400px;
+	margin: 0 auto;
+}
+
+form label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+form input, form select {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+
+form button {
+	padding: 10px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-top: 20px;
+}
+
+table th, table td {
+	padding: 10px;
+	text-align: left;
+	border: 1px solid #ccc;
+}
+
+table th {
+	background-color: #007bff;
+	color: #fff;
+}
+[15:21, 12/05/2023] +254 706 603832: // Get the form and table elements
+const userForm
